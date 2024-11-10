@@ -1,4 +1,4 @@
-# Basic-JAVA-Programs
+# Top 100+ Java Coding Interview Questions
 
 This project includes a Java program to reverse a string using a `for` loop.
 
