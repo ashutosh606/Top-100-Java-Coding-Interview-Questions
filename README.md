@@ -1,4 +1,4 @@
-# Reverse String Using a For Loop
+# Basic-JAVA-Programs
 
 This project includes a Java program to reverse a string using a `for` loop.
 
