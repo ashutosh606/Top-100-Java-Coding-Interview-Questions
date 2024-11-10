@@ -1,4 +1,4 @@
-package ReverseString;
+package Q1.ReverseString;
 
 public class Using_for_loop {
     public static void main(String[] args) {

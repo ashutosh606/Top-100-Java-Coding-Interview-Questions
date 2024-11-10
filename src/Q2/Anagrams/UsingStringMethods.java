@@ -1,4 +1,4 @@
-package Anagrams;
+package Q2.Anagrams;
 
 public class UsingStringMethods {
     public static void main(String[] args) {

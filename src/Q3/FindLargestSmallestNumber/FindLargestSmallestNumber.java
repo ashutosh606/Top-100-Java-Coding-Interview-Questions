@@ -1,3 +1,5 @@
+package Q3.FindLargestSmallestNumber;
+
 public class FindLargestSmallestNumber {
     public static void main(String[] args) {
         int[] arr={12,56,76,89,100,343,21,234};

@@ -1,4 +1,4 @@
-package Anagrams;
+package Q2.Anagrams;
 
 import java.util.Arrays;
 
