@@ -1,4 +1,4 @@
-package Q1_ReverseString;
+package ReverseString;
 
 public class Using_StringBuffer {
     public static void main(String[] args) {

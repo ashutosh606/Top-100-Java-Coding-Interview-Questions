@@ -1,4 +1,4 @@
-package Q1_ReverseString;
+package ReverseString;
 
 public class usingRecursion {
     public static void main(String[] args) {

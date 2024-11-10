@@ -4,7 +4,7 @@ This project includes a Java program to reverse a string using a `for` loop.
 
 ## Accessing the Code
 
-You can find the code in the `src/Q1_ReverseString/Using_for_loop.java` file. 
+You can find the code in the `src/ReverseString/Using_for_loop.java` file. 
 
 Navigate to the `src` folder to locate this file and similar code examples.
 
