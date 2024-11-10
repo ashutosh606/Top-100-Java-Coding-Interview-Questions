@@ -1,7 +1,5 @@
 package Q1_ReverseString;
 
-import java.sql.SQLOutput;
-
 public class usingRecursion {
     public static void main(String[] args) {
         String str="JavaBasics";
