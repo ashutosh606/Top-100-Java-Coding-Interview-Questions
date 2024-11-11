@@ -1,4 +1,4 @@
-package Q3.FindLargestSmallestNumber;
+package Q10.FindLargestSmallestNumber;
 
 public class FindLargestSmallestNumber {
     public static void main(String[] args) {

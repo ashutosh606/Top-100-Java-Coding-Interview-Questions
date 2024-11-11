@@ -1,4 +1,4 @@
-package Q5.LenghtOfString;
+package Q8.LenghtOfString;
 
 public class StringIndexOutOfBoundsException {
     public static void main(String[] args) {
